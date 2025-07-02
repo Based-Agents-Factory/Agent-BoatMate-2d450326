@@ -19,5 +19,5 @@ jobs:
       - name: Mirror repository
         uses: pixta-dev/repository-mirroring-action@v1
         with:
-          target_repo_url: 'https://x-access-token:${{ secrets.MIRROR_PUSH_TOKEN }}@github.com/Based-Agents-Factory/Agent-RALPH-655512b8.git'
+          target_repo_url: 'https://x-access-token:${{ secrets.MIRROR_PUSH_TOKEN }}@github.com/Based-Agents-Factory/Agent-RentEase-AI-173960fb.git'
           ssh_private_key: ''
