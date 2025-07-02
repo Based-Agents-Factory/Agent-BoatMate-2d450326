@@ -19,5 +19,5 @@ jobs:
       - name: Mirror repository
         uses: pixta-dev/repository-mirroring-action@v1
         with:
-          target_repo_url: 'https://x-access-token:${{ secrets.MIRROR_PUSH_TOKEN }}@github.com/Based-Agents-Factory/Agent-KinkMatch-85de9dad.git'
+          target_repo_url: 'https://x-access-token:${{ secrets.MIRROR_PUSH_TOKEN }}@github.com/Based-Agents-Factory/Agent-BoatMate-2d450326.git'
           ssh_private_key: ''
